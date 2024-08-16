@@ -1,0 +1,25 @@
+* {
+  font-family:'Times New Roman', Times, serif;
+}
+
+#tabContainer button {
+  padding: 10px;
+  cursor: pointer;
+  font-size: 24px;
+}
+
+button:hover {
+  background: aqua;
+}
+
+#tabContainer .active {
+  background: red;
+}
+
+#tabContentContainer .tabContent {
+  display: none;
+}
+
+#tabContentContainer .active {
+  display: block;
+}
