@@ -1,0 +1,11 @@
+.accordion{
+    width: 400px;
+    height:auto;
+}
+
+.heading{
+    font-size: 30px;
+    border: 2px solid black;
+    background: bisque;
+    padding: 3px;
+}
